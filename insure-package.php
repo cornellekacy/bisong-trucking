@@ -151,7 +151,7 @@ EOT;
                                     <span class="required">*</span> Insurance Amount to Pay:
                                 </label>
 
-                                <input type="text" class="wpcf7-text"  id="pointsperc" name="insurance" disabled>
+                                <input type="text" class="wpcf7-text" name="insurance"  id="pointsperc" >
                             </fieldset>
 
                             <input type="submit" class="wpcf7-submit" value="Pay Insurance" />
