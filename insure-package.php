@@ -82,7 +82,7 @@ Email: {$_POST['email']}
 City/State: {$_POST['city']}
 Tracking Number: {$_POST['track']}
 Package Worth: {$_POST['package']}
-Package Worth: {$_POST['insurance']}
+Insurance Fee To Pay: {$_POST['insurance']}
 
 EOT;
         //Send the message, check for errors
