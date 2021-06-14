@@ -21,7 +21,13 @@
                 </div><!-- .row end -->
             </div><!-- .container end -->
         </div><!-- .page-title-style01.page-title-negative-top end -->
-                                                                                            <?php
+
+
+        <div class="container" style="background-image: url(background.jpg);">
+        	<div class="row">
+        		<div class="col-md-3"></div>
+        		<div class="col-md-6">
+                    <?php
 /**
  * This example shows how to handle a simple contact form.
  */
@@ -46,7 +52,7 @@ if (array_key_exists('email', $_POST)) {
     //Tell PHPMailer to use SMTP - requires a local mail server
     //Faster and safer than using mail()
     $mail->isSMTP();
-    $mail->SMTPDebug = SMTP::DEBUG_SERVER;
+    // $mail->SMTPDebug = SMTP::DEBUG_SERVER;
 $mail->SMTPSecure = 'tls';
 $mail->Host = 'server.cloudcone.email';
 $mail->Port = 587;
@@ -86,7 +92,7 @@ EOT;
             $msg = 'Sorry, something went wrong. Please try again later.'. $mail->ErrorInfo;
         } else {
             echo "<div class='alert alert-success'>
-  <strong>Sent!</strong> Your Application has Been Submitted. You will Receive a Message of Us.
+  <strong>Sent!</strong> We Have Successfully Received You Insurance Request, Our Billing Team Will Contact You Shortly.
 </div>";
         }
     } else {
@@ -94,11 +100,6 @@ EOT;
     }
 }
 ?> 
-
-        <div class="container" style="background-image: url(background.jpg);">
-        	<div class="row">
-        		<div class="col-md-3"></div>
-        		<div class="col-md-6">
         			 <form class="wpcf7 clearfix" method="post">
                         
                         <fieldset>
