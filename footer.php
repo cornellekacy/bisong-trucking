@@ -31,13 +31,19 @@
                                 </div>
 
                                 <ul>
-                                    <li><a href="about01.html">About us</a></li>
-                                    <li><a href="company-history.html">Company history</a></li>
-                                    <li><a href="events.html">Company Events</a></li>
-                                    <li><a href="supply-chain-management.html">Supply chain management</a></li>
-                                    <li><a href="warehousing.html">Warehousing</a></li>
-                                    <li><a href="news-standard.html">Company news</a></li>
-                                    <li><a href="driver-application.html">Online driver application</a></li>
+                                     <li><a href="index.php">Home</a></li>
+                                          <li><a href="about.php">About Us</a></li>
+
+                                        <li><a href="services.php">Servicess</a></li>
+
+                                        
+                                          
+                                                
+                                              <li><a href="track-package.php">Track Package</a></li>  
+                                             <li><a href="testimonials.php">Testimonials</a></li>
+                                            <li><a href="backend/index.php">Login</a></li>
+
+                                         <li><a href="contact.php">Contact Us</a></li>
                                 </ul>
                             </li><!-- .widget-pages end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
@@ -50,13 +56,13 @@
                                 </div>
 
                                 <ul>
-                                    <li><a href="overland-transportation.html">Overland transportation</a></li>
-                                    <li><a href="air-freight.html">Air freight</a></li>
-                                    <li><a href="ocean-freight.html">Ocean freight</a></li>
-                                    <li><a href="large-projects.html">Large projects</a></li>
-                                    <li><a href="rail-transportation.html">Rail international shipping</a></li>
-                                    <li><a href="contract-logistics.html">Contract logistics</a></li>
-                                    <li><a href="packaging-options.html">Packaging options</a></li>
+                                    <li><a href="">Overland transportation</a></li>
+                                    <li><a href="">Air freight</a></li>
+                                    <li><a href="">Ocean freight</a></li>
+                                    <li><a href="">Large projects</a></li>
+                                    <li><a href="">Rail international shipping</a></li>
+                                    <li><a href="">Contract logistics</a></li>
+                                    <li><a href="">Packaging options</a></li>
                                 </ul>
                             </li><!-- .widget-pages end -->
                         </ul><!-- .col-md-3.footer-widget-container end -->
@@ -68,8 +74,9 @@
                                 </div>
 
                                 <address>
-                                    123 Second Street Fifth Avenue, <br />
-                                    Manhattan, New York
+                                    1612 Dexter Street FORT WAYNE IN 46805,
+<br />
+                                    UNITED STATES OF AMERICA
                                 </address>
 
                                 <span class="text-big">
@@ -94,11 +101,11 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <p>TRUCKING 2015. All RIGHTS RESERVED.</p>
+                            <p>PARCEL FORCE 2015. All RIGHTS RESERVED.</p>
                         </div><!-- .col-md-6 end -->
 
                         <div class="col-md-6">
-                            <p class="align-right">DESIGNED AND DEVELOPED BY <a href="http://pixel-industry.com/html/trucking/www.pixel-industry.com">PIXEL INDUSTRY.</a> ELITE AUTHOR.</p>
+                            <p class="align-right">DESIGNED AND DEVELOPED BY <a href="">PARCEL FORCE.</a> ELITE AUTHOR.</p>
                         </div><!-- .col-md-6 end -->
                     </div><!-- .row end -->
                 </div><!-- .container end -->

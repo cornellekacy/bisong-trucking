@@ -106,7 +106,7 @@
                         </span>
                         <br />
 
-                        <a href="mailto:">info@trucking.com</a>
+                        <a href="mailto:">info@parcelforce.world</a>
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
             </div><!-- .container end -->
