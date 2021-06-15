@@ -96,7 +96,7 @@
                                     <div class="navbar-header"background-color: #000>
                                         <div class="logo">
                                             <a href="index.html">
-                                                <img src="logo1.png" height="50" width="120" alt="Trucking Transportation and Logistics HTML Template"/>
+                                                <img src="logof.png" height="50" width="120" alt="Trucking Transportation and Logistics HTML Template"/>
                                             </a>
                                         </div><!-- .logo end -->
                                     </div><!-- .navbar-header start -->

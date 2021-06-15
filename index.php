@@ -167,7 +167,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="img/pics/img01.jpg" alt="Trucking"/>
+                                <img src="van.jpg" alt="Trucking"/>
 
                                 <a href="overland-transportation.html" class="read-more02">
                                     <span>
@@ -195,7 +195,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="img/pics/img02.jpg" alt="Trucking"/>
+                                <img src="ff.jpg" alt="Trucking"/>
 
                                 <a href="large-projects.html" class="read-more02">
                                     <span>
@@ -223,7 +223,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="img/pics/img03.jpg" alt="Trucking"/>
+                                <img src="p1.jpg" alt="Trucking"/>
 
                                 <a href="air-freight.html" class="read-more02">
                                     <span>
