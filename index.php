@@ -4,9 +4,9 @@
             <!-- first slide -->
             <div class="ms-slide">
                 <!-- slide background -->
-                <img src="masterslider/blank.gif" data-src="pp3.jpeg" alt="Strongest distribution network"/>  
+                <img src="masterslider/blank.gif" data-src="bimg/3.jpg" alt="Strongest distribution network"/>  
 
-                <img class="ms-layer" src="masterslider/blank.gif" data-src="img/pics/img35.jpg" alt=""
+                <img class="ms-layer" src="masterslider/blank.gif" data-src="bimg/2.jpg" alt=""
                      style="left: 0; top: 310px;"
                      data-type="image" 
                      data-effect="left(short)" 
@@ -126,7 +126,7 @@
             <!-- slide 04 start -->
             <div class="ms-slide">
                 <!-- slide background -->
-                <img src="masterslider/blank.gif" data-src="img/slider/slide04.jpg" alt="Worldwide freight services"/> 
+                <img src="masterslider/blank.gif" data-src="bimg/2.jpg" alt="Worldwide freight services"/> 
 
                 <h2 class="ms-layer pi-caption01" 
                     style="left: 388px; top: 390px;" 
@@ -139,7 +139,7 @@
                     Trucking
                 </h2>
 
-                <img class="ms-layer" src="masterslider/blank.gif" data-src="img/slider/slider-line.jpg" alt=""
+                <img class="ms-layer" src="masterslider/blank.gif" data-src="bimg/1.jpg" alt=""
                      style="left: 540px; top: 450px;"
                      data-type="image" 
                      data-effect="bottom(short)" 
