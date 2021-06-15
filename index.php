@@ -458,7 +458,7 @@
                                         </h4>
                                     </a>
 
-                                    <a href="news-single.html" class="read-more">
+                                    <a href="" class="read-more">
                                         <span>
                                             Read more
                                             <i class="fa fa-chevron-right"></i>
@@ -486,7 +486,7 @@
                                         </h4>
                                     </a>
 
-                                    <a href="news-single.html" class="read-more">
+                                    <a href="" class="read-more">
                                         <span>
                                             Read more
                                             <i class="fa fa-chevron-right"></i>
@@ -591,7 +591,7 @@
                             supply chain.
                         </p>
 
-                        <a href="locations.html" class="read-more">
+                        <a href="" class="read-more">
                             <span>
                                 View all locations
                                 <i class="fa fa-chevron-right"></i>

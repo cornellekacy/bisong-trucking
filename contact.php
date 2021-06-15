@@ -89,7 +89,7 @@
                             <h3>Trucking headquarters</h3>
                         </div><!-- .custom-heading end -->
 
-                        <div id="map"></div>
+                      
 
                         <div class="custom-heading">
                             <h4>company information</h4>
@@ -102,7 +102,7 @@
                         </address>
 
                         <span class="text-big colored">
-                            +00 41 258 489 6587
+                             +1 (910) 292-9153
                         </span>
                         <br />
 

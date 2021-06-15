@@ -80,11 +80,11 @@
                                 </address>
 
                                 <span class="text-big">
-                                    +00 41 258 489 6587
+                                    +1 (910) 292-9153
                                 </span>
                                 <br />
 
-                                <a href="mailto:">info@trucking.com</a>
+                                <a href="mailto:">info@parcelforce.world</a>
                                 <br />
                                 <ul class="footer-social-icons">
                                     <li><a href="#" class="fa fa-facebook"></a></li>

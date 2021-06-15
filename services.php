@@ -169,10 +169,7 @@
                                 </div><!-- .custom-heading end -->
 
                                 <p>
-                                    We provide full supply chain management 
-                                    package including cost effective and fast 
-                                    sea freight. You can also combine this 
-                                    package with other means of transportation.
+                                    We have have the best infrastructure for large and heavy goods, our warehousing services are very cheap and affordable. we give out the best of services
                                 </p>
                             </div><!-- .service-body end -->
                         </div><!-- .service-feature-box-end -->
@@ -197,10 +194,7 @@
                                 </div><!-- .custom-heading end -->
 
                                 <p>
-                                    We provide full supply chain management 
-                                    package including cost effective and fast 
-                                    sea freight. You can also combine this 
-                                    package with other means of transportation.
+                                    We provide the best consulting services for our clients based on the nature of their business and give them the best solution
                                 </p>
                             </div><!-- .service-body end -->
                         </div><!-- .service-feature-box-end -->
