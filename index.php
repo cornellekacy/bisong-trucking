@@ -4,9 +4,9 @@
             <!-- first slide -->
             <div class="ms-slide">
                 <!-- slide background -->
-                <img src="masterslider/blank.gif" data-src="bimg/3.jpg" alt="Strongest distribution network"/>  
+                <img src="masterslider/blank.gif" data-src="parcel/trcuks.jpg" alt="Strongest distribution network"/>  
 
-                <img class="ms-layer" src="masterslider/blank.gif" data-src="bimg/2.jpg" alt=""
+                <img class="ms-layer" src="masterslider/blank.gif" data-src="parcel/team.jpg" alt=""
                      style="left: 0; top: 310px;"
                      data-type="image" 
                      data-effect="left(short)" 
@@ -52,7 +52,7 @@
             <!-- slide 02 start -->
             <div class="ms-slide">
                 <!-- slide background -->
-                <img src="masterslider/blank.gif" data-src="pp2.jpg" alt="International Air freight"/> 
+                <img src="masterslider/blank.gif" data-src="parcel/plane.jpg" alt="International Air freight"/> 
 
                 <h2 class="ms-layer pi-caption01" 
                     style="left: 58px; top: 390px;" 
@@ -65,7 +65,7 @@
                     International Air Freight
                 </h2>
 
-                <img class="ms-layer" src="masterslider/blank.gif" data-src="img/pics/img13.jpg" alt=""
+                <img class="ms-layer" src="masterslider/blank.gif" data-src="parcel/team1.jpg" alt=""
                      style="left: 540px; top: 450px;"
                      data-type="image" 
                      data-effect="bottom(short)" 
@@ -89,7 +89,7 @@
             <!-- slide 03 start -->
             <div class="ms-slide">
                 <!-- slide background -->
-                <img src="masterslider/blank.gif" data-src="pp1.jpg" alt="Worldwide freight services"/> 
+                <img src="masterslider/blank.gif" data-src="parcel/parcel.jpg" alt="Worldwide freight services"/> 
 
                 <h2 class="ms-layer pi-caption01" 
                     style="left: 258px; top: 390px;" 
@@ -126,7 +126,7 @@
             <!-- slide 04 start -->
             <div class="ms-slide">
                 <!-- slide background -->
-                <img src="masterslider/blank.gif" data-src="bimg/2.jpg" alt="Worldwide freight services"/> 
+                <img src="masterslider/blank.gif" data-src="parcel/parcel2.jpg" alt="Worldwide freight services"/> 
 
                 <h2 class="ms-layer pi-caption01" 
                     style="left: 388px; top: 390px;" 
@@ -195,7 +195,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="ff.jpg" alt="Trucking"/>
+                                <img src="parcel/parcel2.jpg" alt="Trucking"/>
 
                                 <a href="large-projects.html" class="read-more02">
                                     <span>
@@ -223,7 +223,7 @@
                     <div class="col-md-4 col-sm-4">
                         <div class="service-feature-box">
                             <div class="service-media">
-                                <img src="p1.jpg" alt="Trucking"/>
+                                <img src="parcel/plane.jpg" alt="Trucking"/>
 
                                 <a href="air-freight.html" class="read-more02">
                                     <span>
@@ -423,8 +423,8 @@
                         </ul><!-- .service-list end -->
                     </div><!-- .col-md-6 end -->
 
-                    <div class="col-md-6 img-bkg01">
-                        <div>&nbsp;</div>
+                    <div class="col-md-6">
+                        <img src="parcel/truck2.jpg">
                     </div>
                 </div><!-- .row end -->
             </div><!-- .container end -->
